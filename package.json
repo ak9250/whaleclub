@@ -3,6 +3,9 @@
   "version": "0.0.1",
   "description": "API wrapper for whaleclub api",
   "main": "index.js",
+  "engines": {
+    "node": "6.2.2"
+  }
   "dependencies": {
     "axios": "^0.15.3",
     "lodash": "^4.17.4"
