@@ -1,7 +1,7 @@
 const WhaleClub = require('whaleclub');
 
-const API_KEY = '8a1c5feb-9b4f-43b8-8a2c-d7d173e23929';
-const wc = new WhaleClub("8a1c5feb-9b4f-43b8-8a2c-d7d173e23929");
+const API_KEY = '';
+const wc = new WhaleClub("");
 //wc.markets().then(console.log);
 
 // uncomment the call you want to test
